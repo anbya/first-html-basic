@@ -1,0 +1,11 @@
+.mynav{
+    height: 10vh;
+}
+.navbtn{
+    height: 100%;
+}
+.myhero{
+    background-color: #d6d6d6;
+    height: 100vh;
+    position: relative;
+}
